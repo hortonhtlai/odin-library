@@ -1,0 +1,18 @@
+.LibraryTitle {
+    font-size: xx-large;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+.BookListDisplay {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    display: flex;
+    border: solid;
+    justify-content: space-between;
+    padding: 50px;
+}
